@@ -1,0 +1,11 @@
+K 6
+C 50
+T 200
+E 3
+P 100
+S1 2
+S2 10
+product_time 20
+logfile log.txt
+interval_time 100
+open_cashiers 6
